@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+.container {
+    display: flexbox
+
+}
+.header {
+  width: 1440px;  
+  height: 122px;
+  position: absolute;
+  color:blue;
+  margin-bottom: 70px;
+}
+.container1 {
+    width: 1440px; 
+    height: 1007px; 
+    position: absolute;
+    background: url(scandinavian-interior-mockup-wall-decal-background\ 2.png);
+
+}
+.button {
+border-radius: 50px;
+display: flex;
+flex-direction: row;
+
+}
+.container2 {
+    width: 1440px;
+    height: 150px;
+    position: absolute;
+    background-color: #F2F5FF;
+}
+.container3 {
+    width: ;
+}
